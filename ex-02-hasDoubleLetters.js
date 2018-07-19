@@ -31,9 +31,6 @@ function hasDoubleLetters(str){
 }
 
 
-console.log(hasDoubleLetters("Aardvark"));
-
-
 
 
 
